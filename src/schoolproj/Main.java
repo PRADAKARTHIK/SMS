@@ -1,4 +1,4 @@
-1package schoolproj;
+package schoolproj;
 import java.util.*;
 
 public class Main {
@@ -47,7 +47,7 @@ public class Main {
        if(ch==1)
        
       {
-    	System.out.println("2.Science Teacher");
+    	System.out.println("2.Science Teacher sample");
         System.out.println("3.Social Teacher");
         System.out.println("4.English Teacher");
         System.out.println("5.Maths Teacher");
